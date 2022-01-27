@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jahez Challenge</string>
+    <string name="offers">عرض</string>
+    <string name="all">الجميع</string>
+    <string name="distance">المسافة</string>
+    <string name="title">عرض حسب</string>
+    <string name="en">EN</string>
+    <string name="ar">العربية</string>
+</resources>

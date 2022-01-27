@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Jahez Challenge</string>
+    <string name="app_name" translatable="false">Jahez Challenge</string>
+    <string name="offers">offers</string>
+    <string name="all">All</string>
+    <string name="distance">distance</string>
+
+     <string name="title">filter by</string>
+
+
+    <string name="en">EN</string>
+    <string name="ar">العربية</string>
 </resources>
